@@ -194,3 +194,36 @@ for row in rows12:
 
 
 cursor_connection_close(pg_conn, pg_curs)
+
+# Passengers who survived: 342
+# Passengers who died: 545
+# Passengers in 1st class: 216
+# Passengers in 2nd class: 184
+# Passengers in 3rd class: 487
+# 1st class who lived: 136
+# 2nd class who lived: 87
+# 3rd class who lived: 119
+# 1st class who died: 80
+# 2nd class who died: 97
+# 3rd class who died: 368
+# Average age of survivors: 28
+# Average age of nonsurvivors: 30
+# Average age of 1st class: 39
+# Average age of 2nd class: 30
+# Average age of 3rd class: 25
+# Average fare 1st class: $84.15
+# Average fare 2nd class: $20.66
+# Average fare 3rd class: $13.71
+# Average fare of nonsurvivors: $22.21
+# Average fare of survivors: $48.40
+# Average no. of siblings/spouses in 1st class: 0.42
+# Average no. of siblings/spouses in 2nd class: 0.40
+# Average no. of siblings/spouses in 3rd class: 0.62
+# Average no. of siblings/spouses when people died: 0.56
+# Average no. of siblings/spouses when people lived: 0.47
+# Average no. of parents/children aboard for 1st class: 0.36
+# Average no. of parents/children aboard for 2nd class: 0.38
+# Average no. of parents/children aboard for 3rd class: 0.40
+# Average no. of parents/children when people died: 0.33
+# Average no. of parents/children when people lived: 0.46
+# Number of people with the same first name: 574
